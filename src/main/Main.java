@@ -5,6 +5,10 @@
 package main;
 
 import Car.Car;
+import cashmachine.CashMachine;
+import holiday.Holiday;
+import shapes.Shape;
+
 
 /**
  *
